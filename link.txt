@@ -1,0 +1,2 @@
+** Тут должны быть ссылки которые вы хотите преобразовать в qr **
+** There should be links that you want to convert to qr **
